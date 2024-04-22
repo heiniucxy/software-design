@@ -61,12 +61,12 @@ XP开发方法将开发阶段的四个活动（分析、设计、编码和测试
 
 **练习2的作答：**
 
-![img](lab4/lab4_exercise2.png)
+![img](lab4_exercise2.png)
   
 
 **练习3的作答：**
 
-![img](lab4/lab4_exercise3.png)
+![img](lab4_exercise3.png)
 
 ### 3.小组讨论，
 
